@@ -1,0 +1,8 @@
+Package: com.omerstore
+Name: Ömer Store Esp
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Ömer Store
+Maintainer: Ömer Store
+Author: Ömer Store
